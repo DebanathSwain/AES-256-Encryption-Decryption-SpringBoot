@@ -84,6 +84,16 @@ Invalid input is handled gracefully with custom messages
 
 ❌ Decryption – Failed (Invalid Input)
 
+## 🔐 Encryption – Success
+![Encryption Success](Application_Pictures/encryption-success.jpeg)
+
+## 🔓 Decryption – Success
+![Decryption Success](Application_Pictures/decryption-success.jpeg)
+
+## ❌ Decryption – Failed
+![Decryption Failed](Application_Pictures/decryption-failed.jpeg)
+
+
 ⚠️ Error Handling :-
 ---------------------
 Invalid encrypted input is detected and handled
